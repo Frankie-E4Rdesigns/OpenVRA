@@ -1,10 +1,10 @@
 # Visual Reinforcement Audiometry (VRA) Box
 
-This device can be used to assess the hearing thresholds of young children (age 10 months to 2 years) and special populations.
+OpenVRA is a device that can be used to assess the hearing thresholds of young children (age 10 months to 2 years) and special populations.
 
 Portable.  Half-size. 3D-printed.  Open Source. 
 
-Device Showcase: https://www.youtube.com/watch?v=vdt06AG41tk&feature=youtu.be
+OpenVRA Showcase: https://www.youtube.com/watch?v=vdt06AG41tk&feature=youtu.be
 
 The device's main purpose is to visually reinforce a child's behavior when they hear a sound. 
 Specifically, an audiologist will play a pure tone, the child will look around for the source of this pure tone, 
