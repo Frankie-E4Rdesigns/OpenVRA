@@ -15,7 +15,7 @@ Video Link on how VRA works: https://www.youtube.com/watch?v=S45H3i2ulto
 
 Steps in building the device:
 
-1) Download and 3D print all 10 files (9 needed, 1 optional piece).  20% infil is perfect for all pieces, ensure supports are activated everywhere.
-2) Buy/ gather necessary items listed in the item list. Amazon links are provided.
+1) Download and 3D print all 10 files (9 needed, 1 optional piece).  Use 20% infil when printing all pieces, ensure supports are activated everywhere for all pieces.
+2) Buy/ gather necessary items listed in the "parts list". Amazon links are provided.
 3) Download the arduino code (Titled VRA_Arduino_Code_May_24_2018).
 4) Follow the Youtube build tutorial. 
